@@ -1,0 +1,5 @@
+﻿  knight2.cpp
+  main.cpp
+  Generating Code...
+E:\learn\IT\assignment2.4\knight2.cpp(694): warning C4715: 'ArmyKnights::fight': not all control paths return a value
+  assignment2.4.vcxproj -> E:\learn\IT\assignment2.4\assignment2.4\x64\Debug\assignment2.4.exe
